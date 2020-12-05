@@ -83,7 +83,7 @@ module.exports = function (grunt) {
         useminPrepare: {
             foo: {
                 dest: 'dist',
-                src: ['index.html','contactus.html','aboutus.html']
+                src: ['index.html']
             },
             options: {
                 flow: {
