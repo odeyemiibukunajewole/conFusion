@@ -17,5 +17,7 @@ $('document').ready(function () {
     })
     $('#reserve-btn').click(function () {
         $('#reservetable').modal('toggle');
+        // $('#reservetable').modal('toggle');
+
     })
 })
